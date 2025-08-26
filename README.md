@@ -29,7 +29,7 @@ There are multiple ways to install the NVIDIA libraries mentioned above. The rec
 
 ### faster-whisper_v4
 * For the control of the Inspired Lab Robot from faster-whisper_v3, which means after stopping speaking, it will send a UDP command if you have spoken the keywords.
-* 
+  
 ### faster-whisper_v4.1
 * Same with faster-whisper_v4, but the duration time is 5 seconds, which is similar to the  version of faster-whisper_v2
 
