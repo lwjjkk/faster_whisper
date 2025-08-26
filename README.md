@@ -14,7 +14,7 @@
 
 There are multiple ways to install the NVIDIA libraries mentioned above. The recommended way is described in the official NVIDIA documentation, but we also suggest other installation methods below. 
 
-*For Anaconda, please use the conda command to install the environment settings of these Python files.
+* For Anaconda, please use the conda command to install the environment settings of these Python files.
 
 
 ## Reference
